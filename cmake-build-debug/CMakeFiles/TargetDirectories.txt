@@ -1,0 +1,3 @@
+C:/Users/omeri/Desktop/CMP2003/cmake-build-debug/CMakeFiles/CMP2003.dir
+C:/Users/omeri/Desktop/CMP2003/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/omeri/Desktop/CMP2003/cmake-build-debug/CMakeFiles/rebuild_cache.dir
